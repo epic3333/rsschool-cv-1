@@ -69,7 +69,7 @@ September 2020
 - Self-education
 
 ****
-## language:
+## Language:
 - Russian - Native
 - Ukrainian - Intermediate
 - English - Beginner
