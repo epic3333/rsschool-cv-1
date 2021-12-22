@@ -23,7 +23,7 @@
 
 ****
 ## Code examples
-KATA from CODEWARS: Highest and Lowest 
+KATA from CODEWARS: [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 
 __Task:__ In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 ``` JS
@@ -37,7 +37,7 @@ function highAndLow(numbers){
 ## Work experience
 
 ======================================================================
-### [DEVChallenge](https://millisabel.github.io/DEVChallenge/)
+### [DEVChallenge](https://millisabel.github.io/DEVChallenge/) - https://millisabel.github.io/DEVChallenge/
 #### Overview
 Website for the company in the crypto industry (We took 3rd place in the Frontend Layout nomination in DEV Challenge XVII)
 #### I implemented:
@@ -51,7 +51,7 @@ Website for the company in the crypto industry (We took 3rd place in the Fronten
   November 2020
 
 ======================================================================
-### [Training project](https://millisabel.github.io/Portfolio/hotelcats/)
+### [Training project](https://millisabel.github.io/Portfolio/hotelcats/) - https://millisabel.github.io/Portfolio/hotelcats/
 #### Overview
 Website for a startup in the pet care industry
 #### I implemented:
