@@ -1,0 +1,77 @@
+# Elena Kozlova
+
+****
+## Contacts
+- __Location:__ Ukraine, Toretsk
+- __e-mail:__ [elena.kozlova.job@gmail.com](mailto:elena.kozlova.job@gmail.com)
+- __Telegram:__ @millisabel
+- __Discord:__ Elena Kozlova (@millisabel)
+- [Linkedin](https://www.linkedin.com/in/elena-kozlova-3a86021a1)
+- [GitHub](https://github.com/millisabel)
+
+****
+## About me
+- __Goal__: development as a front-end developer
+- __My qualities:__ Responsibility, pursuit of new knowledge
+
+****
+## Skills
+- HTML5, CSS3, JS (Basic)
+- SCSS, GULP, BEM methodology
+- Web-page implementation based on professional mockups
+- PhotoShop, Illustrator, Figma
+
+****
+## Code examples
+KATA from CODEWARS: Highest and Lowest 
+
+__Task:__ In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+``` JS
+function highAndLow(numbers){
+  let arr = numbers.split(' ');
+  return Math.max.apply(null, arr) + " " +  Math.min.apply(null, arr);
+}
+```
+
+****
+## Work experience
+
+======================================================================
+### [DEVChallenge](https://millisabel.github.io/DEVChallenge/)
+#### Overview
+Website for the company in the crypto industry (We took 3rd place in the Frontend Layout nomination in DEV Challenge XVII)
+#### I implemented:
+- Light/Dark theme
+- Adaptive design
+- Pixel Perfect
+- work with API YouTube
+#### Technologies:
+  HTML, SCSS, JS
+#### Duration:
+  November 2020
+
+======================================================================
+### [Training project](https://millisabel.github.io/Portfolio/hotelcats/)
+#### Overview
+Website for a startup in the pet care industry
+#### I implemented:
+- Rooms catalog with filtering, booking, testimonials.
+- Adaptive design
+#### Technologies:
+HTML, SCSS, JS
+#### Duration:
+September 2020
+
+****
+## Education
+- Course within the training program IT NATION on the platform [“Codifun” - Advanced frontend web developer](https://codifun.com/academies) - ADVANCED FRONTEND WEB DEVELOPER – course completion [certificate](eyJpdiI6ImJCd2RTVmZQUWk3N1IyTnlNXC93ejZBPT0iLCJ2YWx1ZSI6ImpoOUtqQ2Z2M2VhWndnNzAwNDhsSWc9PSIsIm1hYyI6ImU5MDBhNWY3MGQzMjdiOGM2NGU4YmRmYmNmYTE2ZTc3NjhjNzlmYjVmYjBkZGEwOWUwYTFiOGI2M2IwMDA2YzMifQ)
+- Interactive course [htmlacademy](https://htmlacademy.ru/)
+- Self-education
+
+****
+## language:
+- Russian - Native
+- Ukrainian - Intermediate
+- English - Beginner
+
+****
