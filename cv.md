@@ -38,7 +38,7 @@ function highAndLow(numbers){
 
 ======================================================================
 ### [DEVChallenge](https://millisabel.github.io/DEVChallenge/) - https://millisabel.github.io/DEVChallenge/
-#### Overview
+#### Overview:
 Website for the company in the crypto industry (We took 3rd place in the Frontend Layout nomination in DEV Challenge XVII)
 #### I implemented:
 - Light/Dark theme
@@ -46,13 +46,13 @@ Website for the company in the crypto industry (We took 3rd place in the Fronten
 - Pixel Perfect
 - work with API YouTube
 #### Technologies:
-  HTML, SCSS, JS
+HTML, SCSS, JS
 #### Duration:
-  November 2020
+November 2020
 
 ======================================================================
 ### [Training project](https://millisabel.github.io/Portfolio/hotelcats/) - https://millisabel.github.io/Portfolio/hotelcats/
-#### Overview
+#### Overview:
 Website for a startup in the pet care industry
 #### I implemented:
 - Rooms catalog with filtering, booking, testimonials.
