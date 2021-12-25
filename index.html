@@ -3,16 +3,198 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+          content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>CV</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&display=swap"
+          rel="stylesheet">
     <link rel="icon" href="assets/favico/CV.ico">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Task: CV#2. HTML, CSS & Git Basics</h1>
+
+<header class="header">
+    <div class="container">
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__item">
+                    <a href="#contacts" class="nav__link">Contacts</a>
+                </li>
+                <li class="nav__item">
+                    <a href="#summary" class="nav__link">Summary</a>
+                </li>
+                <li class="nav__item">
+                    <a href="#skills" class="nav__link">Skills</a>
+                </li>
+                <li class="nav__item">
+                    <a href="#code" class="nav__link">code</a>
+                </li>
+                <li class="nav__item">
+                    <a href="#courses" class="nav__link">courses</a>
+                </li>
+                <li class="nav__item">
+                    <a href="#projects" class="nav__link">projects</a>
+                </li>
+                <li class="nav__item">
+                    <a href="#education" class="nav__link">education</a>
+                </li>
+                <li class="nav__item">
+                    <a href="#language" class="nav__link">language</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<main class="main">
+    <div class="container">
+        <section class="section" id="profile">
+            <h1 class="section-title">Elena Kozlova</h1>
+            <h2 class="section-subtitle">Junior Front-End Developer</h2>
+            <figure>
+                <img src="assets/foto.jpg" alt="my foto" width="512" height="512">
+                <figcaption class="visually-hidden">my avatar</figcaption>
+            </figure>
+        </section>
+        <section class="section" id="contacts">
+            <h2 class="">contacts</h2>
+            <ul class="">
+                <li class="contacts__item">
+                    <span class="">location:</span>
+                    <a class="" href="https://goo.gl/maps/EqkUqbtwPcAqzpwZ8" target="_blank">Ukraine, Toretsk</a>
+                </li>
+                <li class="contacts__item">
+                    <span class="">e-mail:</span>
+                    <a class="" href="mailto:elena.kozlova.job@gmail.com" target="_blank">elena.kozlova.job@gmail.com</a>
+                </li>
+                <li class="contacts__item">
+                    <span class="">GitHub</span>
+                    <a class="" href="https://github.com/millisabel" target="_blank">millisabel</a>
+                </li>
+                <li class="contacts__item">
+                    <a class="" href="http://www.linkedin.com/in/elena-kozlova-3a86021a1" target="_blank">linkedin</a>
+                </li>
+                <li class="contacts__item">
+                    <span class="">Discord</span>
+                    <a class="" href="https://discord.com/" target="_blank">@millisabel</a>
+                </li>
+                <li class="contacts__item">
+                    <span class="">Telegram</span>
+                    <a class="" href="https://t.me/millisabel" target="_blank">@millisabel</a>
+                </li>
+            </ul>
+        </section>
+        <section class="section" id="summary">
+            <h2 class="section__title">summary</h2>
+            <p class="">I like to gain new knowledge and I like the profession of front-end development. Programming is not my main job, but my goal is to change that. I want to learn enough JavaScript and the React library and get some hands-on experience.</p>
+        </section>
+        <section class="section" id="skills">
+            <h2 class="section__title">skills</h2>
+            <ul class="">
+                <li class="li">Web-development: HTML5, CSS3, JavaScript</li>
+                <li class="li">Tools: SCSS, GULP, BEM methodology</li>
+                <li class="li">Version control: GIT, Github</li>
+                <li class="li">Graphics: PhotoShop, Illustrator, Figma</li>
+            </ul>
+        </section>
+        <section class="section" id="code">
+            <h2 class="section__title">code</h2>
+            <p class="">KATA from CODEWARS<a href="https://www.codewars.com/kata/554b4ac871d6813a03000035" class="" target="_blank">Highest and Lowest</a></p>
+            <p class=""><span class="">Task: </span>In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.</p>
+            <pre>
+function highAndLow(numbers){
+  let arr = numbers.split(' ');
+  return Math.max.apply(null, arr) + " " +  Math.min.apply(null, arr);
+}
+            </pre>
+        </section>
+        <section class="section" id="courses">
+            <h2 class="section__title">courses</h2>
+            <ul class="">
+                <li class="">Course within the training program IT NATION on the platform <a href="https://codifun.com/academies" class="" target="_blank">“Codifun”</a>  - Advanced frontend web developer - course completion
+                    <a href="https://codifun.com/get-certificate/13/eyJpdiI6ImJCd2RTVmZQUWk3N1IyTnlNXC93ejZBPT0iLCJ2YWx1ZSI6ImpoOUtqQ2Z2M2VhWndnNzAwNDhsSWc9PSIsIm1hYyI6ImU5MDBhNWY3MGQzMjdiOGM2NGU4YmRmYmNmYTE2ZTc3NjhjNzlmYjVmYjBkZGEwOWUwYTFiOGI2M2IwMDA2YzMifQ==" class="" target="_blank">certificate</a></li>
+                <li class="">Course within the training program IT NATION on the platform <a href="https://codifun.com/academies" class="" target="_blank">“Codifun”</a>  - DIGITAL SKILLS - course completion
+                    <a href="https://codifun.com/get-certificate/12/eyJpdiI6ImZOT3ZlK09FVWNOa1o0M0NVNTg4Y2c9PSIsInZhbHVlIjoiS2xLTHlFM2dNekRCYTRGenhhS2FQZz09IiwibWFjIjoiMTJkM2FhZjlmZjYzYzc1ZTY5MmU1OTRmYTlkYmE1NWE5Nzg4OGQzNDJkZGFiMDgxMTc4ZDRjZGRkN2IzOTViMiJ9" class="" target="_blank">certificate</a></li>
+                <li class="">Interactive course <a href="https://htmlacademy.ru/" class="" target="_blank">htmlacademy</a></li>
+                <li class="">course on <a href="https://www.udemy.com/" class="">udemy</a> <a href="https://www.udemy.com/course/javascript_full/" class="">Полный курс по JavaScript + React</a> in progress</li>
+            </ul>
+        </section>
+        <section class="section" id="projects">
+            <h2 class="section__title">projects</h2>
+            <article class="">
+                <h3 class="">DEVChallenge XVIII - <a href="https://millisabel.github.io/DEVChallenge/" class="" target="_blank">https://millisabel.github.io/DEVChallenge/</a></h3>
+                <div class="">
+                    <h4 class="">Overview:</h4>
+                    <p class="">Website for the company in the crypto industry (We took 3rd place in the Frontend Layout nomination in DEV Challenge XVII)</p>
+                </div>
+                <div class="">
+                    <h4 class="">I implemented:</h4>
+                    <ul class="">
+                        <li class="">Light/Dark theme</li>
+                        <li class="">Adaptive design</li>
+                        <li class="">Pixel Perfect</li>
+                        <li class="">work with API YouTube</li>
+                    </ul>
+                </div>
+                <div class="">
+                    <h4 class="">Technologies:</h4>
+                    <p class="">HTML, SCSS, JS</p>
+                </div>
+                <div class="">
+                    <h4 class="">Duration:</h4>
+                    <p class="">November 2020</p>
+                </div>
+            </article>
+            <article class="">
+                <h3 class="">Training project - <a href="https://millisabel.github.io/Portfolio/hotelcats/" class="" target="_blank">https://millisabel.github.io/Portfolio/hotelcats/</a></h3>
+                <div class="">
+                    <h4 class="">Overview:</h4>
+                    <p class="">Website for a startup in the pet care industry</p>
+                </div>
+                <div class="">
+                    <h4 class="">I implemented:</h4>
+                    <ul class="">
+                        <li class="">Rooms catalog with filtering, booking, testimonials.</li>
+                        <li class="">Adaptive design</li>
+                    </ul>
+                </div>
+                <div class="">
+                    <h4 class="">Technologies:</h4>
+                    <p class="">HTML, SCSS, JS</p>
+                </div>
+                <div class="">
+                    <h4 class="">Duration:</h4>
+                    <p class="">September 2020</p>
+                </div>
+            </article>
+        </section>
+        <section class="section" id="education">
+            <h2 class="section__title">education</h2>
+            <ul class="">
+                <li class="">Self-education</li>
+            </ul>
+        </section>
+        <section class="section" id="language">
+            <h2 class="section__title">language</h2>
+            <ul class="">
+                <li class="">Russian - Native</li>
+                <li class="">Ukrainian - Intermediate</li>
+                <li class="">English - Beginner</li>
+            </ul>
+        </section>
+    </div>
+</main>
+<footer class="footer">
+    <div class="container">
+        <div class="footer__item school">
+            <a href="https://rs.school/js/" class="" target="_blank">
+                <img src="assets/rs_school_js.svg" class="school__logo" alt="logotype rs-school">
+            </a>
+        </div>
+        <time class="footer__item">2021</time>
+        <a class="social__git" href="https://github.com/millisabel" target="_blank">github.com</a>
+    </div>
+</footer>
 </body>
 </html>
