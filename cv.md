@@ -4,10 +4,10 @@
 ## Contacts
 - __Location:__ Ukraine, Toretsk
 - __e-mail:__ [elena.kozlova.job@gmail.com](mailto:elena.kozlova.job@gmail.com)
-- __Telegram:__ @millisabel
-- __Discord:__ Elena Kozlova (@millisabel)
-- [Linkedin](https://www.linkedin.com/in/elena-kozlova-3a86021a1)
-- [GitHub](https://github.com/millisabel)
+- [__Telegram:__ ](https://t.me/millisabel) @millisabel
+- [__Discord:__ ](https://discord.com/) Elena Kozlova (@millisabel)
+- [__Linkedin__](https://www.linkedin.com/in/elena-kozlova-3a86021a1)
+- [__GitHub__](https://github.com/millisabel)
 
 ****
 ## About me
@@ -64,7 +64,7 @@ September 2020
 
 ****
 ## Education
-- Course within the training program IT NATION on the platform [“Codifun” - Advanced frontend web developer](https://codifun.com/academies) - ADVANCED FRONTEND WEB DEVELOPER – course completion [certificate](eyJpdiI6ImJCd2RTVmZQUWk3N1IyTnlNXC93ejZBPT0iLCJ2YWx1ZSI6ImpoOUtqQ2Z2M2VhWndnNzAwNDhsSWc9PSIsIm1hYyI6ImU5MDBhNWY3MGQzMjdiOGM2NGU4YmRmYmNmYTE2ZTc3NjhjNzlmYjVmYjBkZGEwOWUwYTFiOGI2M2IwMDA2YzMifQ)
+- Course within the training program IT NATION on the platform [“Codifun” - Advanced frontend web developer](https://codifun.com/academies) - ADVANCED FRONTEND WEB DEVELOPER – course completion [certificate](https://codifun.com/get-certificate/13/eyJpdiI6ImJCd2RTVmZQUWk3N1IyTnlNXC93ejZBPT0iLCJ2YWx1ZSI6ImpoOUtqQ2Z2M2VhWndnNzAwNDhsSWc9PSIsIm1hYyI6ImU5MDBhNWY3MGQzMjdiOGM2NGU4YmRmYmNmYTE2ZTc3NjhjNzlmYjVmYjBkZGEwOWUwYTFiOGI2M2IwMDA2YzMifQ==)
 - Interactive course [htmlacademy](https://htmlacademy.ru/)
 - Self-education
 
